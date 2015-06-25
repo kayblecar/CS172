@@ -1,0 +1,10 @@
+You have made some headway! Where shall you go next?
+1: The Spaceport. The weaponry will be there.
+resourceful
+spaceport
+2: The village near the Spaceport. The villagers need to be rallied to defend themselves
+a leader
+village
+3: Seek out the local government
+a true diplomat
+planet government building

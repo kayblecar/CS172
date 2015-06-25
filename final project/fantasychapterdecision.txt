@@ -1,0 +1,10 @@
+Which part of the castle will you secure now?
+1: The baracks. The soldiers need encouragement.
+a leader
+barracks
+2:The front gates.
+Forward thinking
+castle gates
+3: Breakfast. That was exhausting.
+hungry
+great hall

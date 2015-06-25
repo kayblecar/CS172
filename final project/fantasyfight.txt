@@ -1,0 +1,4 @@
+Which of your weapons will you use?
+They will not yield! What shal you use for your next attack?
+<location stuff>
+Your oponent has left a power up! Which weapon would you like to use it on?
