@@ -1,10 +1,10 @@
-You have made some headway! Where shall you go next?
+You must help defend the planet! Where shall you go first?
 1: The Spaceport. The weaponry will be there.
 resourceful
-spaceport
+0spaceport
 2: The village near the Spaceport. The villagers need to be rallied to defend themselves
-a leader
-village
+compassionate
+1village
 3: Seek out the local government
 a true diplomat
-planet government building
+2planet government building

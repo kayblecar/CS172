@@ -1,0 +1,1 @@
+When you reach <location -1> <punc ,> you recognize the <opponent> as someone working for <antagonist> <punc .> Before you can point them out to <friend> <punc ,> they approach you. <fight 3 5 a person's job>

@@ -1,0 +1,1 @@
+You <verb> at the ball. <antagonist> asks you for a <noun> and you accept. "I have heard that you are a very <consequence .> young woman. <defeated> seems to <verb> you, and they are not easily made a friend." <BossFight 10 5 >

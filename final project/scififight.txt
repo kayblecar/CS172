@@ -1,4 +1,0 @@
-Which weapon do you use?
-They're not quite down! Which weapon do you use for your next attack?
-<location stuff>
-Oh look a power up! Which weapon will you use it on?

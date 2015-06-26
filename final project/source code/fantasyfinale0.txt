@@ -1,0 +1,2 @@
+You find yourself abducted by <antagonist> <punc '> <punc s> agents! You make a <adjective> note to investigate the loyalty of those in the castle upon your return. You are taken to a camp in the woods, and greeted by the booming voice of <antagonist> <punc .> "You have defeated <defeated> <punc ,> and proven yourself <consequence .> <punc ,> but I will have your lands!"
+<BossFight 10 5 >

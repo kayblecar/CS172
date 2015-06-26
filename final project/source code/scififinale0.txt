@@ -1,0 +1,2 @@
+You find yourself in a transporting beam, <verb ending in -ing> up to <antagonist> <punc '> <punc s> ship. You are greeted by a <adjective> crew. "I understand you have been influential in undermining my efforts," <antagonist> says <punc ,> "You are a <consequence .> opponent, even besting <defeated> <punc .> You will not <verb> me any longer!"
+<BossFight 10 5 >

@@ -1,0 +1,7 @@
+Which of your weapons will you use?
+They will not yield! What shall you use for your next attack?
+The soldiers are inspired by your fight and go help guard the castle, even though none of them are on duty.
+Those at the gates give a loud cheer, encouraged that the coming battle will end with a vanquished foe.
+The cook is honestly startled at the presence of an enemy in the great hall. He pats you on the back in congratulations regardless.
+You have protected your home and proven your heroism to your people! Perhaps there shall be more adventures for you in the future...
+Your opponent has left a power up! Which weapon would you like to use it on?

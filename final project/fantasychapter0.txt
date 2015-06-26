@@ -1,1 +1,0 @@
-As you aproach <location -1> <punc ,> you see a strange <noun> <punc .> You and <friend> aproach it to examine it. and find it is a message, telling you to yield to <antagonist> <punc .> An assasin ambushes you, yelling "I am <opponent> and you shall fall!" <fight 1 2 name>

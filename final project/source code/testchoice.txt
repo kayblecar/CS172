@@ -1,0 +1,10 @@
+Where do you go?
+1: place
+adjective
+0place
+2: go party
+party animal
+1place
+3: sit down
+chill
+2place

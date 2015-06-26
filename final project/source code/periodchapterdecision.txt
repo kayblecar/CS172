@@ -1,0 +1,10 @@
+Where shall you go next?
+1: I shall walk my father's estate. The weather is lovely today.
+hardy
+0walking
+2: The hat shop in town. I must be well dressed!
+fashinable
+1shopping
+3: My friend's house. We can practice piano together and discuss the novels we have been reading.
+friendly
+2practicing

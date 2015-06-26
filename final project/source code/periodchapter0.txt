@@ -1,0 +1,1 @@
+As you are <location -1> with <friend> <punc ,> You are approached by <opponent> <punc ,> one of <antagonist> <punc '> <punc s> siblings. <fight 3 5 name>

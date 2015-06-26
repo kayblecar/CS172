@@ -1,0 +1,4 @@
+<adjective> blaster.
+<noun> sword.
+alien <noun> .
+staff of <name> .

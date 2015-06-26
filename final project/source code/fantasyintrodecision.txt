@@ -1,10 +1,10 @@
 Which part of the castle will you secure first?
 1: The baracks. The soldiers need encouragement.
-leader
-the barracks
+inspiring
+0the barracks
 2:The front gates.
-stuff
-castle gates
+practical
+1the castle gates
 3: Breakfast. This can wait.
-hesitated to help your people.
-great hall
+hesitant
+2the great hall

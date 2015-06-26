@@ -1,0 +1,1 @@
+You and <friend> get sidetracked as you get near <location -1> by a loud <noun> <punc .> It <verbs> at you and a <opponent> appears, brandishing a <adjective> weapon. <fight 3 5 noun>

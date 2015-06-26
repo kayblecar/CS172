@@ -10,7 +10,7 @@ class Weapon
 private:
 	string name;
 	int strength;
-	string nameTemplate(string filename){
+	string nameTemplate(string filename){ //creates randomized weapon names
 		ifstream weapontemplate(filename.c_str());
 		string temp;
 		string name;
@@ -52,7 +52,7 @@ private:
 	}
 public:
 	Weapon(){
-		strength = rand() % 5 + 1; //initial strength of weapon is minimum of 1
+		strength = rand() % 5 + 1; //initial strength of weapon is minimum of 1, max 5
 		name = nameTemplate("test.txt");
 	}
 	Weapon(string genre){

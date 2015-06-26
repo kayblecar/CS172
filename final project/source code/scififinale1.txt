@@ -1,0 +1,1 @@
+You got caught by <antagonist> <punc '> <punc s> <anttype> <punc !> <antagonist> is preparing to <verb> information out of you, but they don't know you snuck your <noun> in. As you break out of your bonds, <antagonist> declares "I should have known! You did defeat <defeated> after all. No matter, I shall defeat this <consequence .> <noun> now." <BossFight 10 5 >
